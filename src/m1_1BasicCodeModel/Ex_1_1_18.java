@@ -4,12 +4,10 @@ public class Ex_1_1_18 {
 
 	public static void main(String[] args) {
 		
-		mystery1(2, 25);
-		mystery1(3, 11);
-		
-		mystery2(2, 25);
-		mystery2(3, 11);
-		
+		System.out.println(mystery1(2, 25));
+		System.out.println(mystery1(3, 11));
+		System.out.println(mystery2(2, 25));
+		System.out.println(mystery2(3, 11));
 	}
 	
 	public static int mystery1(int a, int b) { 

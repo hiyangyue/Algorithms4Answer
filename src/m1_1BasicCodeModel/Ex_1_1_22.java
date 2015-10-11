@@ -3,7 +3,7 @@ package m1_1BasicCodeModel;
 /*
  * 求二分算法的递归深度
  */
-public class Ex_1_1_21 {
+public class Ex_1_1_22 {
 	
 	public static void main(String[] args){
 	

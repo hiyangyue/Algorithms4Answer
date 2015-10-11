@@ -7,7 +7,7 @@ public class Ex_1_1_24 {
 
 	public static void main(String[] args) {
 
-		caluecate(100, 50);	
+		caluecate(100, 30);	
 	}
 	
 	private static void caluecate(int a,int b){

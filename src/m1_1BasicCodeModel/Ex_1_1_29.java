@@ -1,7 +1,7 @@
 package m1_1BasicCodeModel;
 
-public class BinarySearch {
-
+public class Ex_1_1_29 {
+	
 	public static void main(String[] args) {
 		
 	}
@@ -28,11 +28,14 @@ public class BinarySearch {
 		
 	}
 	
+	private static int count(int a[],int key){
+		
+		int count = 0;
+		for(int j = rank(a, key) ; j < a.length && a[j] == key ; j++){
+			count ++;
+		}
+		
+		return count;
+	}
+
 }
-
-
-
-
-
-
-

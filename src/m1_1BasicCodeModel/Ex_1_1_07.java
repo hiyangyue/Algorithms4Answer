@@ -5,8 +5,6 @@ public class Ex_1_1_07 {
 	public static void main(String[] args) { 
         
 		c();
-		
-		
     } 
 	
 	private static void a(){
